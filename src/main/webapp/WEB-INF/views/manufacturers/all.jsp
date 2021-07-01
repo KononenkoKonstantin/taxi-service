@@ -33,8 +33,8 @@
             </tbody>
         </table>
     </div>
-    <%@include file="/WEB-INF/views/footer.jsp"%>
     <div><a href="/manufacturers/add"><button class="btn btn-primary">Add new manufacturer</button></a></div>
+    <%@include file="/WEB-INF/views/footer.jsp"%>
 </div>
 </body>
 </html>

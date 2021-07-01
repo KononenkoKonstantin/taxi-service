@@ -41,8 +41,8 @@
       </tbody>
     </table>
   </div>
-  <%@include file="/WEB-INF/views/footer.jsp"%>
   <div><a href="cars/add"><button class="btn btn-primary">Add new car</button></a></div>
+  <%@include file="/WEB-INF/views/footer.jsp"%>
 </div>
 </body>
 </html>
